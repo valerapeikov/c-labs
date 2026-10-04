@@ -1,0 +1,14 @@
+C:\Users\valera\Desktop\csprojj\obj\Debug\net9.0\myproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valera\Desktop\csprojj\obj\Debug\net9.0\myproject.AssemblyInfoInputs.cache
+C:\Users\valera\Desktop\csprojj\obj\Debug\net9.0\myproject.AssemblyInfo.cs
+C:\Users\valera\Desktop\csprojj\obj\Debug\net9.0\myproject.csproj.CoreCompileInputs.cache
+C:\Users\valera\Desktop\csprojj\bin\Debug\net9.0\myproject.exe
+C:\Users\valera\Desktop\csprojj\bin\Debug\net9.0\myproject.deps.json
+C:\Users\valera\Desktop\csprojj\bin\Debug\net9.0\myproject.runtimeconfig.json
+C:\Users\valera\Desktop\csprojj\bin\Debug\net9.0\myproject.dll
+C:\Users\valera\Desktop\csprojj\bin\Debug\net9.0\myproject.pdb
+C:\Users\valera\Desktop\csprojj\obj\Debug\net9.0\myproject.dll
+C:\Users\valera\Desktop\csprojj\obj\Debug\net9.0\refint\myproject.dll
+C:\Users\valera\Desktop\csprojj\obj\Debug\net9.0\myproject.pdb
+C:\Users\valera\Desktop\csprojj\obj\Debug\net9.0\myproject.genruntimeconfig.cache
+C:\Users\valera\Desktop\csprojj\obj\Debug\net9.0\ref\myproject.dll

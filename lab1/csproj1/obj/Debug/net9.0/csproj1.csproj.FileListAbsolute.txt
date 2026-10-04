@@ -1,0 +1,14 @@
+C:\Users\valera\Desktop\csproj1\bin\Debug\net9.0\csproj1.exe
+C:\Users\valera\Desktop\csproj1\bin\Debug\net9.0\csproj1.deps.json
+C:\Users\valera\Desktop\csproj1\bin\Debug\net9.0\csproj1.runtimeconfig.json
+C:\Users\valera\Desktop\csproj1\bin\Debug\net9.0\csproj1.dll
+C:\Users\valera\Desktop\csproj1\bin\Debug\net9.0\csproj1.pdb
+C:\Users\valera\Desktop\csproj1\obj\Debug\net9.0\csproj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valera\Desktop\csproj1\obj\Debug\net9.0\csproj1.AssemblyInfoInputs.cache
+C:\Users\valera\Desktop\csproj1\obj\Debug\net9.0\csproj1.AssemblyInfo.cs
+C:\Users\valera\Desktop\csproj1\obj\Debug\net9.0\csproj1.csproj.CoreCompileInputs.cache
+C:\Users\valera\Desktop\csproj1\obj\Debug\net9.0\csproj1.dll
+C:\Users\valera\Desktop\csproj1\obj\Debug\net9.0\refint\csproj1.dll
+C:\Users\valera\Desktop\csproj1\obj\Debug\net9.0\csproj1.pdb
+C:\Users\valera\Desktop\csproj1\obj\Debug\net9.0\csproj1.genruntimeconfig.cache
+C:\Users\valera\Desktop\csproj1\obj\Debug\net9.0\ref\csproj1.dll
